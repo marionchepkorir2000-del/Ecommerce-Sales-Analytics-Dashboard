@@ -13,12 +13,13 @@ An initial deep dive into transactional sales data to establish core business pe
 * **Total Orders:** 1,200
 * **Total Unique Customers:** 1,189
 
-### Key Insights & Findings
-* **Top Product Lines:** High-ticket electronics (**Chairs**, **Printers**, **Laptops**, and **Tablets**) generate the majority of total revenue.
-* **Acquisition Channels:** **Instagram** is the top-performing referral channel, followed by strong, balanced contributions from **Email Marketing**, **Google Search**, and **Facebook Ads**.
-* **Customer Retention:** Identified key high-value repeat spenders (e.g., accounts `C38840` and `C57276`) for targeted loyalty campaigns.
+## 📊 Key Exploratory Data Analysis (EDA) Findings
 
----
+* **Fulfillment & Operational Health:** 41% of total orders were either cancelled or returned, highlighting a critical area to optimize inventory availability, shipping reliability, and post-purchase customer experience.
+* **Customer Retention & Repeat Purchase:** Only 11 out of 1,189 customers placed repeat orders, signaling a major opportunity to implement targeted retention strategies, post-sale engagement, and loyalty programs.
+* **Multi-Year Revenue Trend:** Overall revenue experienced a downward trend, dropping from ~$552.6K in 2023 to ~$231.9K in 2025, warranting further analysis into product pricing, churn, and market demand shift.
+* **Acquisition Channel Performance:** Instagram proved to be the top-performing referral channel, driving the highest revenue share at approximately $275.3K.
+* **Seasonality & Peak Demand:** June emerged as the strongest month across the analyzed timeframe, generating both the highest order volume and peak monthly revenue.
 
 ## Project 2: Advanced Operations & Promotional Analysis
 
